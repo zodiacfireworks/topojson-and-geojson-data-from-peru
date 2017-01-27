@@ -3,12 +3,11 @@
 <!-- # [![Preview](./banner.png)][1] -->
 [![MIT License][2]][1] [![Python][3]][1] [![HTML5][4]][1] [![MD][5]][1] [![Jupyter Notebook][6]][1] [![Geography][7]][1] [![GeoJSON][8]][1] [![TopoJSON][9]][1] [![I progress][10]][1]
 
-<!--
-A Sample article completely writen in Jupyter Notebook whit some ugly hacks for html formatting :sweat_smile:
 
-This notebook can be used to show some capabilities of Jupyter Notebook, to explain the quantum harmonic oscilator :cat2: or to show some fancy graphs :sunglasses:
+Some notes on error in TopoJSON and GeoJSON data from Perú and it's correction :sweat_smile:
 
--->
+This notebook can be used to show some capabilities of Jupyter Notebook :snake:, to explain some things about statoids and geographics JSON formats :earth_americas: or to show some very large outputs :sweat_smile:
+
 ## Where to see
 
 See this notebook on
