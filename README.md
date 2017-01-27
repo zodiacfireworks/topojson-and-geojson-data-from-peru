@@ -13,8 +13,8 @@ This notebook can be used to show some capabilities of Jupyter Notebook :snake:,
 See this notebook on
 
 * [Github](https://goo.gl/uI5QaU)
-* [nbviewer](https://goo.gl/ZcR7JE)
-* [Anaconda Cloud](https://goo.gl/I6XLvK)
+* [nbviewer](https://goo.gl/I6XLvK)
+* [Anaconda Cloud](https://goo.gl/JYhE2y)
 
 ## How to use
 
