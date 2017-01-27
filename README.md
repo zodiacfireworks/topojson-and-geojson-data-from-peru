@@ -1,23 +1,22 @@
 # TopoJSON and GeoJSON data from Peru
 
 <!-- # [![Preview](./banner.png)][1] -->
-[![MIT License][2]][1] [![Python][3]][1] [![HTML5][4]][1] [![MD][5]][1] [![Jupyter Notebook][6]][1] [![Geography][7]][1] [![GeoJSON][8]][1] [![TopoJSON][9]][1]
+[![MIT License][2]][1] [![Python][3]][1] [![HTML5][4]][1] [![MD][5]][1] [![Jupyter Notebook][6]][1] [![Geography][7]][1] [![GeoJSON][8]][1] [![TopoJSON][9]][1] [![I progress][10]][1]
 
 <!--
 A Sample article completely writen in Jupyter Notebook whit some ugly hacks for html formatting :sweat_smile:
 
 This notebook can be used to show some capabilities of Jupyter Notebook, to explain the quantum harmonic oscilator :cat2: or to show some fancy graphs :sunglasses:
 
-PS: The article is written in Spanish
-
+-->
 ## Where to see
 
 See this notebook on
 
-* [Github](https://goo.gl/eAjjwx)
+* [Github](https://goo.gl/uI5QaU)
 * [nbviewer](https://goo.gl/ZcR7JE)
-* [Anaconda Cloud](https://goo.gl/nVOvTg)
--->
+* [Anaconda Cloud](https://goo.gl/I6XLvK)
+
 ## How to use
 
 1. Clone the repository
@@ -79,3 +78,4 @@ order according to laws.
 [7]: https://img.shields.io/badge/Topic-Geography-green.svg?maxAge=2592000&style=flat-square
 [8]: https://img.shields.io/badge/Topic-GeoJSON-green.svg?maxAge=2592000&style=flat-square
 [9]: https://img.shields.io/badge/Topic-TopoJSON-green.svg?maxAge=2592000&style=flat-square
+[10]: https://img.shields.io/badge/Status-In%20progress-red.svg?maxAge=2592000&style=flat-square
