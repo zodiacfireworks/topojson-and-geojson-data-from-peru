@@ -4,7 +4,7 @@
 [![MIT License][2]][1] [![Python][3]][1] [![HTML5][4]][1] [![MD][5]][1] [![Jupyter Notebook][6]][1] [![Geography][7]][1] [![GeoJSON][8]][1] [![TopoJSON][9]][1] [![I progress][10]][1]
 
 
-Some notes on error in TopoJSON and GeoJSON data from Perú and it's correction :sweat_smile:
+Some notes on errors in TopoJSON and GeoJSON data from Perú and it's correction :sweat_smile:
 
 This notebook can be used to show some capabilities of Jupyter Notebook :snake:, to explain some things about statoids and geographics JSON formats :earth_americas: or to show some very large outputs :sweat_smile:
 
